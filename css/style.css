@@ -120,7 +120,8 @@ html{
     float: left;
     width: 25%;
     box-sizing: border-box;
-    border: 1px solid #ff1d00;
+    border: 3px solid #ff1d00;
+    background: #ffffff;
 }
 
 .products-cards img{
