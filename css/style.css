@@ -139,6 +139,9 @@ html{
 
 @media(max-width:700px){
     .content-boxes div{width: 100%;}
+}
+
+@media(max-width:800px){
     .products-cards div{width: 50%;}
 }
 
