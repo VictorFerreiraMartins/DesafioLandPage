@@ -21,5 +21,5 @@ form.addEventListener('submit',(e) =>{
 
     setTimeout(() =>{
         content.innerHTML = done;
-    },2000)
+    },1000)
 })
